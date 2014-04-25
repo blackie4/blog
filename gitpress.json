@@ -1,10 +1,10 @@
 {
 "docs" : {
-                "html": "posts/html",
-                "css": "posts/css",
-                "JavaScript": "posts/JavaScript",
-                "其他": "posts",
-                "关于我的博客": "README.md",
+         "html": "posts/html",
+         "css": "posts/css",
+         "JavaScript": "posts/JavaScript",
+         "其他": "posts",
+         "关于我的博客": "README.md"
         },  
 "template" : "default",
 "domain_alias" : ["blog.blackie4.gitpress.org"],
